@@ -42,7 +42,7 @@ Sentiment Calculation:
 **6. Conclusion:**
 
 a. Summarize Findings
-User Engagement:**
+User Engagement:
 
 **Identify the most active users and overall engagement trends.**
 **Sentiment Insights:**
