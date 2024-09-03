@@ -1,6 +1,6 @@
 # whatsapp_analysis_CSERockstar2015
 
-#Project Approach: WhatsApp Chat Analysis
+# Project Approach: WhatsApp Chat Analysis
 **1. Define Project Objectives**
 Before diving into the data, clearly define what you aim to achieve with this analysis. Typical objectives might include:
 
